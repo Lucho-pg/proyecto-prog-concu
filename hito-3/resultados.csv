@@ -1,0 +1,10 @@
+runtime,model,cuantizacion,batch_size,ctx,repeticion,tokens_per_s,vram_mib,returncode
+llama.cpp,qwen2.5-0.5b-instruct-q4_k_m.gguf,q4_k_m,512,2048,1,170.1,554,0
+llama.cpp,qwen2.5-0.5b-instruct-q4_k_m.gguf,q4_k_m,512,2048,2,138.6,554,0
+llama.cpp,qwen2.5-0.5b-instruct-q4_k_m.gguf,q4_k_m,512,2048,3,171.9,554,0
+llama.cpp,qwen2.5-0.5b-instruct-q8_0.gguf,q8_0,512,2048,1,166.0,682,0
+llama.cpp,qwen2.5-0.5b-instruct-q8_0.gguf,q8_0,512,2048,2,173.7,682,0
+llama.cpp,qwen2.5-0.5b-instruct-q8_0.gguf,q8_0,512,2048,3,176.5,682,0
+llama.cpp,qwen2.5-0.5b-instruct-q4_k_m.gguf,q4_k_m,512,4096,1,161.4,580,0
+llama.cpp,qwen2.5-0.5b-instruct-q4_k_m.gguf,q4_k_m,512,4096,2,174.6,580,0
+llama.cpp,qwen2.5-0.5b-instruct-q4_k_m.gguf,q4_k_m,512,4096,3,190.4,580,0
