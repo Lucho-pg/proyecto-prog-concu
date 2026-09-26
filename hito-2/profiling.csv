@@ -1,3 +1,3 @@
-kernel,occupancy,memory_throughput,compute_throughput,memory_gbps
-ingenuo,87.71,2.06,1.22,1.62
-optimizado,90.38,76.27,76.27,58.28
+﻿Kernel,Ocupación (%),Rendimiento de memoria (%),Rendimiento de cómputo (%),Ancho de banda de memoria (GB/s)
+Ingenuo,87.71,2.06,1.22,1.62
+Optimizado,90.38,76.27,76.27,58.28
